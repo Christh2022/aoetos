@@ -10,3 +10,6 @@ backend/public/bundles/
 backend/var/
 backend/vendor/
 ###< symfony/framework-bundle ###
+
+
+aoetos/
